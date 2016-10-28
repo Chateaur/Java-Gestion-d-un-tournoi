@@ -1,0 +1,25 @@
+Afin d'effectuer les tests, il est important le changer les logins et mots de passe en bdd10
+afin de pouvoir effectuer les tests sur les pc de l'ecole
+Ces changements sont a effectuer dans les classes BDD, EquipeDAO et ParticipantDAO
+
+____________________________________________
+
+Les tables de la base de donnees sont regenerees a chaque lancement du programme afin
+que les tests soient plus facilement realisables. Pour une utilisation normale, il
+faudrait n'effectuer qu'une fois les methodes d'initialisation de la bdd
+
+____________________________________________
+
+Aide a la navigation dans le projet :
+
+L'application a ete concue en card layout, le menu de navigation general est en haut de l'ecran.
+Dans ce menu se trouvent les options :
+
+- accueil : affiche la fenetre d'accueil (qui pique bien les yeux, il faut le dire)
+- gerer equipe : affiche un sous menu permettant gerer les equipes
+- gerer participant : affiche un sous menu permettant de gerer les participants
+- attribuer equipe : permet de placer les participants sans equipes dans une equipe
+
+____________________________________________
+
+Les documents textes necessaires a l'evaluation sont dans le dossier ".Fichiers textes pour evaluation"

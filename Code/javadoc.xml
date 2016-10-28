@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="lib/ojdbc7_g.jar" destdir="../Projet_info_gr2" doctitle="javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.7" sourcefiles="src/MonModele.java,src/EquipeDAO.java,src/Participant.java,src/PanelGererEquipe.java,src/ParticipantDAO.java,src/PanelAfficherParticipant.java,src/TraitementDonnees.java,src/PanelAjouterParticipant.java,src/PanelGererParticipant.java,src/PanelSupprimerParticipant.java,src/PanelModifierParticipant.java,src/PanelSupprimerEquipe.java,src/Fenetre.java,src/Equipe.java,src/PanelLierEquipeParticipant.java,src/PanelAfficherEquipe.java,src/BDD.java,src/PanelAjouterEquipe.java,src/PanelModifierEquipe.java,src/ClassMain.java,src/PanelAccueil.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
